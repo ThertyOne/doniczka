@@ -34,9 +34,9 @@ Stworzyć urządzenie pomagające użytkownikowi zadbać o roślinę poprzez:
 | Wyświetlacz LED | Mini ekran OLED/IPS | [Link](https://pl.aliexpress.com/item/32761097685.html) |
 | Czujnik wilgotności gleby | Kapacyjny (niesieciwiejący) | [Link](https://pl.aliexpress.com/item/1005006365881525.html) |
 | Czujnik warunków atmosferycznych | BME280 (temp., wilgotność, ciśnienie) | [Link](https://pl.aliexpress.com/item/1005006984793820.html) |
-| Akumulator Li-Ion/Li-Po | np. 18650 3.7V 2000-3000 mAh | - |
+| Akumulator Li-Ion/Li-Po | np. 18650 3.7V 2000-3000 mAh | [Link](https://pl.aliexpress.com/item/1005007257546981.html) |
 | Moduł ładowania | TP4056 lub układ z USB-C + zabezpieczenie | [Link](https://pl.aliexpress.com/item/1005005237080994.html) |
-| Czujnik światła | Fotorezystor (GL5616) lub TSL2561 (cyfrowy) | [Link](https://pl.aliexpress.com/item/1005007257546981.html) |
+| Czujnik światła | Fotorezystor (GL5616) lub TSL2561 (cyfrowy) |  |
 
 ---
 
